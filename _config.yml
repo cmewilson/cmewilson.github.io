@@ -23,12 +23,12 @@ gems:
 # Site owner
 owner:
   name: CM Wilson
-  email:
+  email: chrismewilson@gmail.com
   twitter:
   google:
     ad-client: 
     ad-slot: 
-  bio: 
+  bio: I was born in 200 log cabins.
   avatar: bio-photo.jpg # 160x160 px image for author byline
 disqus-shortname:
 
