@@ -345,13 +345,13 @@
 		-ms-transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		border-bottom: dotted 1px rgba(255, 255, 255, 0.25);
-		color: #1cb495;
+		color: #127cdf;
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #1cb495 !important;
+			color: #127cdf !important;
 			text-decoration: none;
 		}
 
@@ -628,7 +628,7 @@
 			}
 
 			form .message.success {
-				color: #1cb495;
+				color: #127cdf;
 			}
 
 				form .message.success:before {
